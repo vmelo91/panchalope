@@ -32,12 +32,12 @@
 
 <br/>
 
-<a href="https://github.com/panchalope" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panchalope&theme=dracula&show_icons=true" />
+<a href="https://github.com/vmelo91" title="Perfil do Wellington">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmelo91&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-wellington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-vieira-de-melo-filho-ab42642bb/)](https://www.linkedin.com/in/wellington-vieira-de-melo-filho-ab42642bb/)
+[![LinkedIn](https://img.shields.io/badge/-wellington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-melo-tech/)](https://www.linkedin.com/in/wellington-melo-tech/)
 [![Gmail Badge](https://img.shields.io/badge/-wellington79620@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellington79620@gmail.com)](mailto:wellington79620@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/panchalope?label=follow&style=social)](www.github.com/panchalope)
+[![GitHub](https://img.shields.io/github/followers/vmelo91?label=follow&style=social)](www.github.com/panchalope)
